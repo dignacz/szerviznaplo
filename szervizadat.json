@@ -1,0 +1,22 @@
+[
+  {
+    "dátum": "2025-06-01",
+    "km": "34000",
+    "művelet": "fékfolyadék csere"
+  },
+  {
+    "dátum": "2025-06-02",
+    "km": "140000",
+    "művelet": "kerék csere"
+  },
+  {
+    "dátum": "2025-06-05",
+    "km": "60000",
+    "művelet": "kuplung csere"
+  },
+  {
+    "dátum": "2025-07-22",
+    "km": "45000",
+    "művelet": "tükör csere"
+  }
+]
