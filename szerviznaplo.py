@@ -56,7 +56,7 @@ while True:
     print("\ndátum-csök: dátum rendezés csökkenő")
     print("\nkm-növ: km óra rendezés növekvő")
     print("\nkm-csök: km óra rendezés csökkenő")
-    valasz = input("Válassz műveletet (1-4, vagy rendezés): ")
+    valasz = input("Válassz műveletet (1-4, vagy válaszd ki a rendezési feltételt): ")
 
     #Új bejegyzés
     if valasz == "1":
